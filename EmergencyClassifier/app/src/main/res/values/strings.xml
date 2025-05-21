@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Emergency Classifier</string>
+    <string name="start_monitoring">START MONITORING</string>
+    <string name="stop_monitoring">STOP MONITORING</string>
+    <string name="call_state_format">Call State: %s</string>
+    <string name="emergency_score_format">Score: %s</string>
+    <string name="emergency_status_format">Status: %s</string>
+    <string name="emergency_status_normal">Normal</string>
+    <string name="emergency_status_high">HIGH EMERGENCY</string>
+</resources>
